@@ -2,13 +2,13 @@
 Estoy documentando mi camino de 0 a Data Analyst Jr. Un notebook por día, enfocándome en resolver problemas reales de negocio con datos.
 Avance actual: Día 1-7 de 30
 # Lo que llevo esta semana:
-Día 1: Python desde cero-variables y condicionales  
-Día 2: Mi primer DataFrame con Pandas  
-Día 3: Filtrar datos como en Excel pero con código  
-Día 4: Agrupar y resumir ventas con groupby  
-Día 5: Limpiar datasets reales con valores nulos  
-Día 6: Exploración inicial de datos-EDA  
-Día 7: Cruzar tablas con merge-inner vs left join
+Día 1: Crear datos y guardar CSV  
+Día 2: Agrupaciones con groupby  
+Día 3: Visualización con gráficas  
+Día 4: Limpieza de datos  
+Día 5: Unir tablas con merge  
+Día 6: Tablas dinámicas Pivot Table  
+Día 7: Reportes gráficos finales
 # Herramientas que estoy usando
 `Python` `Pandas` `Jupyter Notebook` `GitHub`
 # Por qué este repo existe
