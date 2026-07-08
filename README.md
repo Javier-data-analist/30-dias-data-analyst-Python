@@ -1,3 +1,4 @@
+<img width="993" height="789" alt="P5" src="https://github.com/user-attachments/assets/3bbac521-d181-40e6-b7e0-36be1b3a5ddd" />
 # Proyecto Final: Análisis de Correlación Tesla y GameStop
 
 *Certificado Profesional de IBM Data Science - Coursera*
@@ -18,8 +19,7 @@ El análisis mostró que Tesla presenta mayor correlación entre reportes de ing
 Python Pandas NumPy yfinance Requests BeautifulSoup Matplotlib Jupyter Notebook
 
 ### Resultados Visuales
-![Grafica Tesla vs Ingresos](url-de-tu-imagen-aqui)
-
+![Grafica Tesla: Precio de accion vs Ingresos Trimestrales](https://github.com/user-attachments/assets/2e2ee43e-f4c9-4997-8afc-ddcbfd79922d)
 ### Cómo Replicar el Proyecto
 1. Clonar el repositorio: git clone https://github.com/Javier-data-analist/30-dias-data-analyst-Python.git
 2. Abrir Proyecto_final_Tesla_GameSTOP.ipynb en Jupyter Notebook o Google Colab
